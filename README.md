@@ -1,6 +1,6 @@
 # Hola, soy Pilar Olate
 
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:3DDC84&height=220&section=header&text=Android%20Developer%20Trainee&fontSize=34&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=220&section=header&text=Android%20Developer%20Trainee&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 ## Sobre mí
 Soy Ingeniero Civil de profesión y actualmente estoy finalizando el curso de **Desarrollo de Aplicaciones Móviles Android Trainee**, donde he fortalecido mis habilidades en programación y desarrollo de aplicaciones móviles.
