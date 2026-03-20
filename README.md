@@ -1,4 +1,5 @@
-# Hola, soy Pilar Olate
+## 👋 Hola, soy Pilar Olate
+### Android Developer Trainee 🚀
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=200&section=header&text=Pilar%20Olate&fontSize=35&fontColor=ffffff)
 
