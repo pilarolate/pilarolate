@@ -1,6 +1,6 @@
 # Hola, soy Pilar Olate
 
-![Banner](https://via.placeholder.com/800x300.png?text=Android+Developer)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=200&section=header&text=Pilar%20Olate&fontSize=35&fontColor=ffffff)
 
 ## Sobre mí
 Soy Ingeniero Civil de profesión y actualmente estoy finalizando el curso de Desarrollo de Aplicaciones Móviles Android Trainee, donde he fortalecido mis habilidades en programación y desarrollo de aplicaciones móviles.
@@ -43,6 +43,7 @@ Seguir creciendo como desarrolladora Android y adquirir experiencia en proyectos
 
 ## 📫 Contacto
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/pilarolate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pilarolate)
 
 ---
 Gracias por visitar mi perfil.
